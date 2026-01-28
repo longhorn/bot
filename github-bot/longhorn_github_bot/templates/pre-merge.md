@@ -11,8 +11,8 @@
 * [ ] **Fix / Feature Explanation**
     Does the PR include a clear explanation of the fix or the new feature?
 
-* [ ] **Backend Code Changes**
-    Have all required backend changes been merged (e.g., Manager, Engine, Instance Manager, BackupStore)?
+* [ ] **Code Changes**
+    Have all required code changes been merged?
     PR(s):
 
 * [ ] **Deployment Changes (YAML / Helm Chart)**
