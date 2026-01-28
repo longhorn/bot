@@ -49,7 +49,6 @@ jobs:
     runs-on: ubuntu-latest
     needs:
     - build-github-bot-image
-    - build-github-runner-authorizer-image
     steps:
     - name: Rollout restart github-bot
       uses: actions-hub/kubectl@v1.30.0
